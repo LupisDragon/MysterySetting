@@ -11,5 +11,5 @@ The settings:
 - Equal chance of hints (on/off)
 - Swords: 30% randomized, 30% assured, 30% vanilla, 10% swordless
 - Item pool and functionality are normal.
-- Enemy damage is normal.
+- Enemy damage: 95% normal, 5% shuffled
 - Enemy health: 95% normal, 5% easy
