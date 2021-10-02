@@ -48,8 +48,8 @@ world_state:
   inverted: 10
   retro: 30
 entrance_shuffle:
-  none: 90
-  simple: 10
+  none: 1
+  simple: 0
   restricted: 0
   full: 0
   crossed: 0
